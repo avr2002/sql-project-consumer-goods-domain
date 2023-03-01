@@ -2,6 +2,8 @@
 
 ## Domain:  Consumer Goods | Function: Executive Management
 
+### <a href="https://codebasics.io/challenge/codebasics-resume-project-challenge">Codebasics</a>
+
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
 
