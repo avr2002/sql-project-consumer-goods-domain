@@ -24,6 +24,7 @@ Imagine yourself as the applicant for this role and perform the following task
 Solutions include:
 - SQL Queries
 - Powerpoint Presentation
-- Video Presentation
+- <a href="https://drive.google.com/file/d/110ZwjUbXyWgPMGLO7KmUb3Q6zlzShvQ5/view?usp=sharing">Video Presentation</a>
+
 
 ### <a href="https://www.linkedin.com/in/amit-vikram-raj-883460207/">LinkedIn Profile - Connect With Me</a>
