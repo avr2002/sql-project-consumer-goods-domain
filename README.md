@@ -18,3 +18,12 @@ Imagine yourself as the applicant for this role and perform the following task
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
 2.    You need to run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
+
+
+## Solutions
+Solutions include:
+- SQL Queries
+- Powerpoint Presentation
+- Video Presentation
+
+### <a href="https://www.linkedin.com/in/amit-vikram-raj-883460207/">LinkedIn Profile - Connect With Me</a>
