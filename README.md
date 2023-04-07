@@ -2,6 +2,8 @@
 
 ## Domain:  Consumer Goods | Function: Executive Management
 
+## <a href="https://certificate-cdn.codebasics.io/download-certificate-pdf/CH-1-7-12387.pdf">Certificate of Participation</a>
+
 ### <a href="https://codebasics.io/challenge/codebasics-resume-project-challenge">Codebasics</a>
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
@@ -26,7 +28,5 @@ Solutions include:
 - Powerpoint Presentation
 - <a href="https://drive.google.com/file/d/110ZwjUbXyWgPMGLO7KmUb3Q6zlzShvQ5/view?usp=sharing">Video Presentation</a>
 
-
-## <a href="https://certificate-cdn.codebasics.io/download-certificate-pdf/CH-1-7-12387.pdf">Certificate of Participation</a>
 
 ### <a href="https://www.linkedin.com/in/amit-vikram-raj-883460207/">LinkedIn Profile - Connect With Me</a>
